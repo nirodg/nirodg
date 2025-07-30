@@ -6,7 +6,6 @@
 - **HyperAPI**: A **Quarkus* extension than offers instant, zero-boilerplate, secured CRUD APIs
 - **Microservices** with **Quarkus** for fast cold-starts and lightweight Docker images
 - **Real-time dashboards** with **Kafka** for tracking create/update/delete events
-- 
 ### 🌱 I'm into:
 - **AI** Integrations 🤖
 - **Home Automation** 🔌
